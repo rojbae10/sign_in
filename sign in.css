@@ -1,0 +1,56 @@
+body{
+    background-image: url(http://getwallpapers.com/wallpaper/full/c/4/2/472249.jpg);
+}
+#b{
+border: 1px solid none ;
+border-collapse: collapse;
+background-blend-mode: color;
+border-radius: 30px;
+width: 300px;
+height: 350px;
+backdrop-filter: blur(10px);
+margin-top: 150px;
+margin-left: 500px;
+}
+#a{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(185, 80, 19);
+    top: 15%;
+    text-align: center;
+    font-size: xx-large;
+    
+}
+.b{
+font-family: Arial, Helvetica, sans-serif;
+
+right: 95%;
+font-size: 25px;
+color: rgb(163, 82, 53);
+margin-left: 5%;
+}
+button{
+    margin-left: 40%;
+    margin-top: 1%;
+    width: auto;
+}
+.a{
+    top: 15%;
+    width: 85%;
+    height: 5%;
+    bottom: 30%;
+    margin-left: 4%;
+    border-style: none;
+}
+#forget{
+    margin-top: 3%;
+    color: rgb(105, 52, 33);
+    margin-left: 3%;
+}
+#Sign{
+    margin-left: 13%;
+    color: rgb(105, 52, 33);
+
+}
+
+
+
